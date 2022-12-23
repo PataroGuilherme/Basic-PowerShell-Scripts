@@ -5,5 +5,8 @@ with motivations to do Infrastructure a better IT area.
 
 ☑️ Focus on Windows System and Azure automation.
 
+☑️ LinkedIn:
+https://www.linkedin.com/in/guilhermepataro/
+
 Best Regards,
 Guilherme Gonçalves Pataro.
